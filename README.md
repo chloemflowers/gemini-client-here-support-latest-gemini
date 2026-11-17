@@ -1,0 +1,2 @@
+# gemini-client-here-support-latest-gemini
+截至 2026 年 11 月 14 日，新一代 Gemini 4 已经铺开了：日常干活优先用 Gemini 4 Hydrogen，要更快、更省 token 可以用 Gemini 4 Argon，最重的推理和复杂任务才上 Gemini 4 Carbon。有些入口在国内往往还要自己解决网络问题。
